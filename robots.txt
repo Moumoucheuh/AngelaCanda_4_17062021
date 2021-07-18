@@ -2,4 +2,4 @@
 #
 User-agent: *
 Allow: /index.html
-Disallow: /page2.html
+Disallow: /contact.html
